@@ -1,4 +1,4 @@
-### Hi there i'm Wasanta Bhaskara an freshgraduate student at Udayana University.👋
+### Hi there i'm Wasanta Bhaskara an fresh graduate student at Udayana University.👋
 
 <!--
 **wasantabhaskara/wasantabhaskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
